@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>"Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <span>Haciendo mi primer trabajo con OpenBootcamp</span>
+    <!-- Este es mi primer comentario de dos líneas-->
+    <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+    <div>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=r7qovpFAGrQ&list=RDMMb44dE5_QhWQ&index=2" target="_blank"title="video 1">Lil Nas X - Old Town Road</a></li>
+            <li><a href="https://www.youtube.com/watch?v=b44dE5_QhWQ&list=RDMMb44dE5_QhWQ&index=1"target="_blank"title="video 2">OneRepublic - I Ain’t Worried</a></li>
+            <li><a href="https://www.youtube.com/watch?v=HCq1OcAEAm0&list=RDMMb44dE5_QhWQ&index=11" target="_blank" title="video 3">Lil Nas X - Industry Baby</a></li>
+        </ul>
+    </div>
+</body>
+</html>
