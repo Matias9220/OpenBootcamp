@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ganando precisión con los selectores en CSS</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <h1 id="Titulo">Lista de la compra</h1>
+    <h2 class="encabezado">Lista de la compra</h2>
+    <div>
+        <ul>
+            <li id="elemento-1">Carne</li>
+            <li id="elemento-2">arroz</li>
+            <li id="elemento-3">fideos</li>
+            <li id="elemento-4">verdura</li>
+            <li id="elemento-5">fruta</li>
+        </ul>
+    </div>
+    <div>
+        <ol>
+            <li id="elemento-1">Tuyyo</li>
+            <li id="elemento-2">Yaguane</li>
+            <li id="elemento-3">Brisa</li>
+            <li id="elemento-4">Dia</li>
+            <li id="elemento-5">Grido</li>
+        </ol>
+    </div>
+
+</body>
+</html>
