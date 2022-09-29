@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+    <title>Multimedia</title>
+</head>
+<body>
+    <h1>Aprendiendo a utilizar imágenes</h1>
+    <img src="lineage.jpg" alt="lineage">
+    <br>
+    <hr>
+    <h1>Aprendiendo a utilizar los vídeos</h1>
+    <video width="1100" height="400" controls autoplay loop muted><source src="Lineage 2 Elf-Dark Elf(Cinematic).mp4" type="video/mp4">
+    </video>
+    <br>
+    <hr>
+    <h1>Aprendiendo a utilizar los audios</h1>
+    <audio controls autoplay loop><source src="creed.mp3" type="audio/mp3">
+    </audio>
+    
+</body>
+</html>
