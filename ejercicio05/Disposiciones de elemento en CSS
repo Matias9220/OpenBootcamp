@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="Disposicion.css">
+    <title>Disposición de elementos en CSS</title>
+    
+</head>
+<body>
+    <div class="flex">
+    <img class="galeria" src="goniometro.jpg" alt="imagen6">
+    <img class="galeria" src="mor120.jpg" alt="imagen1">
+    <img class="galeria" src="morfgo.jpg" alt="imagen2">
+    <img class="galeria" src="posicion.jpg" alt="imagen3">
+    <img class="galeria" src="romero.jpg" alt="imagen4">
+    <img class="galeria" src="soldadoscaminando.jpg" alt="imagen5">
+    
+</div>
+</body>
+</html>
